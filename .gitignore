@@ -104,7 +104,7 @@ cmake-build-*/
 
 # IntelliJ
 out/
-.idea/
+.idea/inspectionProfiles
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
